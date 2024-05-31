@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204650573364",
+    "project_id": "shopbypragyank",
+    "storage_bucket": "shopbypragyank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204650573364:android:9ef4bc21bb28a17a156461",
+        "android_client_info": {
+          "package_name": "com.example.shopbypragyank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204650573364-sv6hlfehc3ac5bneg12i7cs322fv1af1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL5zeJnoA4avrhVv8JEwOJbQo2026zzhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204650573364-sv6hlfehc3ac5bneg12i7cs322fv1af1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
